@@ -1,4 +1,6 @@
 {
+  "name": "nextjs-with-storyBook",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "build": "next build",
@@ -18,6 +20,7 @@
     "postcss": "8.4.38",
     "react": "19.0.0-rc-f38c22b244-20240704",
     "react-dom": "19.0.0-rc-f38c22b244-20240704",
+    "styled-components": "^6.1.12",
     "tailwindcss": "3.4.4",
     "typescript": "5.5.2",
     "use-debounce": "^10.0.1",
